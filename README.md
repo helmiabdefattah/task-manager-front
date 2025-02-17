@@ -22,13 +22,13 @@ This is a **React.js** application featuring a **Remember Me** functionality, en
    cd task-manager-front
 ``
 ``
- 2.  Install Dependencies
+2.  Install Dependencies
 ```sh
-   npm install
+npm install
 ```
 3.  Configure Environment VariablesCopy the example .env file and update the values as needed:
    ```sh
-   cp .env.example  .env 
+cp .env.example  .env 
    ```
 4-start server
 ```sh
