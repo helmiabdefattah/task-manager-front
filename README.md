@@ -18,6 +18,20 @@ This is a **React.js** application featuring a **Remember Me** functionality, en
 
 1. Clone the repo:
    ```sh
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-   cd YOUR_REPO
+   git clone https://github.com/helmiabdefattah/task-manager-front
+   cd task-manager-front
+``
+``
+ 2.  Install Dependencies
+```sh
+   npm install
+```
+3.  Configure Environment VariablesCopy the example .env file and update the values as needed:
+   ```sh
+   cp .env.example  .env 
+   ```
+4-start server
+```sh
+npm run start
+```
 
