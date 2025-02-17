@@ -1,4 +1,7 @@
-# React App with Remember Feature
+# Task Managaer App
+
+![image](https://github.com/user-attachments/assets/bbf89d86-5664-4273-8d30-5e315a29e4dd)
+
 
 ## 🚀 Overview
 This is a **React.js** application featuring a **Remember Me** functionality, ensuring user preferences persist across sessions.
