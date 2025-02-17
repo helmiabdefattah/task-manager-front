@@ -1,4 +1,4 @@
-# Task Managaer App
+# Task Managaer Frontend App using React TS
 
 ![image](https://github.com/user-attachments/assets/bbf89d86-5664-4273-8d30-5e315a29e4dd)
 
